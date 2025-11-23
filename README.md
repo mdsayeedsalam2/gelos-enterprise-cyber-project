@@ -1,52 +1,32 @@
-# 💼 Gelos Enterprise Cyber Project  
+# Gelos Enterprise Cyber Security Project
 
-**Certificate IV Cyber Security Enterprise Project — TAFE NSW**  
+This repository contains my Certificate IV in Cyber Security group project work for an enterprise called **Gelos**. The project simulated a full cyber security engagement with Data Trust, red team and blue team perspectives.
 
-End-to-end cybersecurity assessment including Nessus scanning, Data Trust risk assessment, red/blue team exercises, and incident response analysis.
+## Contents
 
----
+- Nessus network scan report
+- Data Trust risk & governance report
+- Red team playbook
+- Blue team observation checklist
+- Incident response & end-of-project report
 
-## 🚀 Project Summary  
+## Key Activities
 
-This repository contains the full set of deliverables from the **“Gelos Enterprise Cyber Security Project”** completed as part of the **22603VIC Certificate IV in Cyber Security (2025)**.
+- Performed Nessus scanning of Gelos network assets.
+- Assessed risks and controls for the Data Trust function.
+- Designed a red team playbook to simulate attack paths.
+- Documented blue team observations during an incident response exercise.
+- Summarised risk mitigation and monitoring strategies.
 
-The project simulates an enterprise environment where a security team must:
+## Example Screenshots
 
-- Identify and assess vulnerabilities
-- Evaluate organisational cyber risk
-- Simulate red team activity and blue team monitoring
-- Run an Incident Response Test Exercise (IRTx)
-- Produce an enterprise-ready final report with recommendations
+![Nessus Scan Dashboard](images/gelos-nessus-scan.png)
+![Gelos Topology](images/gelos-topology.png)
 
----
+## Skills Demonstrated
 
-## 🛠 Tools & Technologies Used  
-
-| Category                 | Tools / Platforms                            |
-|--------------------------|----------------------------------------------|
-| Vulnerability Scanning   | Nessus Essentials                            |
-| Network Analysis         | Wireshark, tcpdump                           |
-| Web App Testing          | OWASP ZAP                                    |
-| SIEM & Monitoring        | Splunk                                       |
-| OS & Networking          | Windows, Linux, Cisco Packet Tracer         |
-| Scripting / Automation   | Bash, Python                                 |
-
----
-
-## 📂 Repository Structure  
-
-```text
-gelos-enterprise-cyber-project/
-│
-├── images/
-│   ├── gelos-topology.png
-│   ├── gelos-nessus-scan.png
-│   └── .gitkeep
-│
-├── 01 Group 5_CI_CyberSecProject_AE_Pro2of2_...pdf
-├── 05 Group 5_CI_CyberSecProject_AE_Pro2of2_...pdf
-├── 06 Group 5_CI_CyberSecProject_AE_Pro2of2_...pdf
-├── 07 Group 5_CI_CyberSecProject_AE_Pro2of2_...pdf
-├── 08 Group 5_CI_CyberSecProject_AE_Pro2of2_...pdf
-├── Group 5_Gelos Network Scan_Nessus_Report.pdf
-└── README.md
+- Enterprise risk assessment  
+- Vulnerability management (Nessus)  
+- Red/blue team collaboration  
+- Incident response documentation  
+- Report writing & presentation
