@@ -20,8 +20,11 @@ This repository contains my Certificate IV in Cyber Security group project work 
 
 ## Example Screenshots
 
-![Nessus Scan Dashboard](images/gelos-nessus-scan.png)
 ![Gelos Topology](images/gelos-topology.png)
+![Nessus Scan Dashboard](images/gelos-nessus-scan.png)
+![Splunk Monitoring](images/Splunk_monitoring.png)
+![Wireshark Monitoring](images/Wireshark_monitoring.png)
+
 
 ## Skills Demonstrated
 
